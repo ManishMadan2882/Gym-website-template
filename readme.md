@@ -1,4 +1,4 @@
-#Gym Website Template
+# Gym Website Template
 
 This is a website template built from scratch, which can be used by any Gym.
 
